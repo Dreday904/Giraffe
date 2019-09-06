@@ -1,3 +1,6 @@
+    
+    //variable info//
+    
     character_name = "Dre"
     character_age = "25"
     character_name2 = "manager"
@@ -13,3 +16,4 @@
     print( character_name,"wanted to get his paycheck and not waste any gas driving to his workplace.")
 
     print(character_name2, "said she wasn't going to get them until after her shift. ")
+    
