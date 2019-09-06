@@ -1,0 +1,15 @@
+    character_name = "Dre"
+    character_age = "25"
+    character_name2 = "manager"
+
+    print("There once was a man named " + character_name,", ")
+
+    print("he Was " + character_age,"old. ")
+
+    print("He really liked the name " + character_name,". ")
+
+    print("But he didn't like being " + character_age,"years old.")
+
+    print( character_name,"wanted to get his paycheck and not waste any gas driving to his workplace.")
+
+    print(character_name2, "said she wasn't going to get them until after her shift. ")
